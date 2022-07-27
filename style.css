@@ -1,0 +1,43 @@
+header{
+    background: #FFF9F4;
+}
+nav{
+    background: #FFF9F4;
+}
+.nike-span{
+    color: #FA804C;
+    font-weight: 400;
+    font-size: 60px;
+}
+.infinity{
+    color: #363958;
+    font-weight: 400;
+    font-size: 60px;
+}
+.nike-main{
+    background-color: #E5E5E5;
+}
+.shoes{
+    color: #363958;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+}
+.card-title{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #363958;
+}
+.shoes-price{
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42px;
+    color: #FA804C;
+}
+h3{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #363958;
+}
